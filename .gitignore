@@ -1,0 +1,9 @@
+Challenges/.vs
+**/*.sln
+**/obj
+**/packages
+**/*.user
+**/bin
+Challenges/ChallengesGUI/Properties/Settings.Designer.cs
+Challenges/ChallengesGUI/Properties/Resources.resx
+Challenges/ChallengesGUI/Properties/Settings.settings
